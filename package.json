@@ -1,0 +1,12 @@
+{
+  "name": "@istanbul/cli",
+  "version": "0.0.1",
+  "description": "CLI Group of Istanbul Framework",
+  "keywords": [
+    "istanbul",
+    "istanbuljs",
+    "cli"
+  ],
+  "author": "Sami Salih İBRAHİMBAŞ",
+  "license": "MIT"
+}
